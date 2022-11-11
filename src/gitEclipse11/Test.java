@@ -6,7 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 System.out.println("agaggaa");
 System.out.println("new branch");
-	
+	System.out.println("this one  is not merged");
 	}
 
 }
